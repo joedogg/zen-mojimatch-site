@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -400,15 +399,6 @@
                 <li>💾 Automatic progress saving</li>
             </ul>
         </div>
-    </div>
-
-    <div class="footer">
-        <p>&copy; 2025 Emoji Match. All rights reserved.</p>
-        <p>
-            <a href="#">Privacy Policy</a> • 
-            <a href="#">Terms of Service</a> • 
-            <a href="mailto:joelariz@gmail.com">Contact</a>
-        </p>
     </div>
 </body>
 </html>
