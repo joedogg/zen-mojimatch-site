@@ -2,8 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Emoji Match - Support</title>
-    <meta name="description" content="Support and help for Emoji Match - the fun physics-based emoji matching game for iOS">
+    <title>Zen MojiMatch - Support</title>
+    <meta name="description" content="Support and help for Zen MojiMatch - the fun physics-based emoji matching game for iOS">
     <style>
         * {
             margin: 0;
@@ -216,15 +216,15 @@
 </head>
 <body>
     <div class="header">
-        <h1>🎮 Emoji Match</h1>
+        <h1>🎮 Zen MojiMatch</h1>
         <p>Support & Help Center</p>
     </div>
 
     <div class="container">
         <!-- About the Game -->
         <div class="card">
-            <h2>About Emoji Match</h2>
-            <p>Emoji Match is a fun, physics-based puzzle game where you match groups of three identical emojis in a tumbling, gravity-affected environment. Test your reflexes and pattern recognition as emojis bounce, collide, and settle in this unique matching experience!</p>
+            <h2>About Zen MojiMatch</h2>
+            <p>Zen MojiMatch is a fun, physics-based puzzle game where you match groups of three identical emojis in a tumbling, gravity-affected environment. Test your reflexes and pattern recognition as emojis bounce, collide, and settle in this unique matching experience!</p>
             
             <div class="feature-grid">
                 <div class="feature">
@@ -305,7 +305,7 @@
                         <li>Close other apps running in the background</li>
                         <li>Restart your device</li>
                         <li>Make sure you have the latest version of iOS installed</li>
-                        <li>Update Emoji Match to the latest version from the App Store</li>
+                        <li>Update Zen MojiMatch to the latest version from the App Store</li>
                     </ul>
                 </div>
             </div>
@@ -348,7 +348,7 @@
             <h2>Privacy & Data</h2>
             
             <h3>🔒 Your Privacy Matters</h3>
-            <p>Emoji Match respects your privacy and does not collect or share personal information. Here's what you should know:</p>
+            <p>Zen MojiMatch respects your privacy and does not collect or share personal information. Here's what you should know:</p>
             
             <ul>
                 <li><strong>No Personal Data Collection:</strong> We don't collect names, emails, or other personal information</li>
@@ -379,7 +379,7 @@
             </ul>
 
             <h3>💬 Leave a Review</h3>
-            <p>Enjoying Emoji Match? We'd greatly appreciate a review on the App Store! Your feedback helps us improve the game and reach more players.</p>
+            <p>Enjoying Zen MojiMatch? We'd greatly appreciate a review on the App Store! Your feedback helps us improve the game and reach more players.</p>
             <a href="#" class="button">⭐ Rate on App Store</a>
         </div>
 
